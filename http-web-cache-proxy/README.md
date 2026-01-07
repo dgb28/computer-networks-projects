@@ -139,19 +139,6 @@ Verified scenarios:
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── proxy.py            # Web cache proxy implementation
-├── server.py           # Origin HTTP server (from Project 1)
-├── cache/              # Cached HTTP responses
-├── PA2.pdf             # Assignment instructions
-├── Project 2.pdf       # Project report
-└── README.md
-```
-
----
 
 ## 📌 Key Takeaways
 
