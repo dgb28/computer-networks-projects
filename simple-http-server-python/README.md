@@ -126,21 +126,6 @@ Verified test cases include:
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── server.py           # HTTP server implementation
-├── www/                # Server root directory
-│   └── index.html
-├── post_data.txt       # Stored POST request data
-├── PA1.pdf             # Assignment instructions
-├── Project 1.pdf       # Project report
-└── README.md
-```
-
----
-
 ## 📌 Key Takeaways
 
 - Implemented an HTTP server **without using frameworks**
